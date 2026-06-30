@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Ali Khan</h1>
 
 <h3 align="center">
-BS Information Engineering Technology Student | MERN Stack Learner | Frontend Developer
+BS Information Engineering Technology Student | MERN Stack Learner | Frontend,Backend Developer
 </h3>
 
 <p align="center">
